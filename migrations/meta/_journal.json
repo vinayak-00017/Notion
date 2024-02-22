@@ -1,0 +1,27 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1708588208892,
+      "tag": "0000_white_machine_man",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1708588753134,
+      "tag": "0001_hot_gorgon",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1708594448440,
+      "tag": "0002_familiar_malice",
+      "breakpoints": true
+    }
+  ]
+}
